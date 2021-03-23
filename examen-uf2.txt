@@ -1,1 +1,4 @@
-.
+git add examen-uf2.txt
+git config
+git push
+git log
